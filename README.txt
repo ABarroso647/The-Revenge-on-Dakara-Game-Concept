@@ -1,0 +1,7 @@
+This is an AARPG concept made in a similar style to games such as Diablo 2. The story is that of a hero who's village has been destroyed by a dragon and so he must travel to the dragons den through three levels, a forest, a mountain, and then finally fight the dragon at his den.The game is played from a top down, 2D perspective with the hero left-clicking to move and right clicking to do a regular attack.
+
+There are 6 classes in total, three ranged classes and three melee classes.The general idea behind the classes is damage, a middle/utility class, and then a defensive/cc class for both melee and ranged. Each class has 3 skills in its skill tree, with one skill granted as soon as the class is chosen and the other skills granted after killing each miniboss. The game has one town, within it there is a small shop that sells both health and mana potions for the cheap price of 20 gold coins. The game also has waypoints that are unlocked at the end of each level, and are marked by a red flag. The game overall has gone for a very zelda-esq feel with the styles of music chosen for the different levels.
+
+The game is not meant to be complete but merely a concept.This game was made back in 2017, in a group of 4 people with very minimal to no C#/coding experience within the gamemaker ide, which is similar to Unity. The game concept was done within a 2 week stint and overall everyone in the group is very proud of this accomplishment
+
+
